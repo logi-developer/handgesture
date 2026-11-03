@@ -1,0 +1,25 @@
+{
+  "languages": [
+    "en",
+    "hi",
+    "ta",
+    "kn",
+    "ml",
+    "mr",
+    "bn",
+    "te",
+    "gu",
+    "pa",
+    "ur",
+    "fr",
+    "de"
+  ],
+  "messages": {
+    "HELP": "I need help please help me",
+    "EMERGENCY": "i am in emergency situvation so please help me",
+    "WATER": "i need water imediately please help me i need water",
+    "TABLETS": "i need tablets please help me i need tablets",
+    "FOOD": "i am hungry i need food",
+    "BORING": "I am getting bored, can you give company for me"
+  }
+}
